@@ -1,0 +1,90 @@
+
+body {
+    background: linear-gradient(0.25turn ,#7a7171, #0e9bb4);
+    font-family: 'Lato', sans-serif; 
+    font-size: 45px;
+    display: flex;
+    
+   
+}
+
+#container {
+    width: 1000px;
+    height: 900px;
+    align-content: center;
+    align-items: center;
+    
+
+}
+#logo {
+    width: 1000px;
+     margin-bottom: 20px;
+     height: 50px;
+     text-align: center;
+     position: relative;
+     font-family: 'McLaren', cursive;
+
+     
+     
+}
+
+#topbar {
+    width: 1000px;
+    height: 50px;
+    
+    margin-top: 10px;
+    
+    
+}
+
+.rectangle {
+    background-color: #7a7171;
+    
+    float: left;
+    
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.rectangle:hover{
+    background-color: black;
+    color:white;
+    
+    
+}
+
+
+#content {
+    width: 940px;
+    height: 710px;
+    text-align: center;
+    font-size: 18px;
+    background-color: lightgrey;
+    padding: 30px;
+    
+
+
+}
+#footer {
+    background-color: black;
+    width: 1000px;
+    height: 30px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+
+
+}
+img {
+    width: 27%;
+    
+    
+    
+
+}
+.rectanglelink {
+    text-decoration: none;
+    color: black;
+
+}
